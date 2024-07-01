@@ -1,0 +1,16 @@
+h6{
+    color: blueviolet;
+    size: 3px;
+    background-color: cadetblue;
+    border: 2px solid black;
+    text-align: center;
+}
+/* # is used to identify id from id & class */
+#id1{
+    color: aqua;
+}
+#id2{
+    font-size: 20px;
+    font-style: italic;
+    color: crimson;
+}
